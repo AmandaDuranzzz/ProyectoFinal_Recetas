@@ -7,6 +7,9 @@ Características Principales
 *   **Arquitectura MVC Separada por Capas:** Estructura limpia que independiza la interfaz de usuario (Views), la lógica de negocio (Controllers), el mapeo de objetos (Models) y el acceso a datos (DAL).
 *   **Persistencia de Datos Relacional:** Conectividad directa y eficiente con un servidor MySQL mediante el conector nativo `MySql.Data`.
 
+Video de referencia: https://youtu.be/O4_nyyX341k?si=e6xa_d6t6HGBrK1h
+
+
 ---
 
 Integrantes del Equipo
